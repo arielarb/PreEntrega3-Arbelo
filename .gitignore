@@ -32,7 +32,7 @@ ehthumbs_vista.db
 
 # Folder config file
 scriptDOM.js
-Images
+/Images
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
@@ -50,4 +50,4 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode
 
 * scriptDOM.js
-* Images
+* /Images
